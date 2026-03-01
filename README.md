@@ -15,10 +15,9 @@ To Run:
 
 This is a simple script to adjust CPU and GPU overclock settings as quickly as possible.
 
-Full disclosure: I did use chatgpt to produce the menu script.# bc250-performanceprofiles
-Easy way to change performance profiles for CPU and GPU overclocking on the BC-250
+Full disclosure: I did use chatgpt to produce the menu script.
 
-Runnign the script from command line will present the following menu:
+Running the script from command line will present the following menu:
 
 Performance Options:
 
