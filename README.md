@@ -25,5 +25,6 @@ Performance Options:
  2) Medium High          - CPU 3.85ghz, GPU 2100mhz, 80C Moderate Overclock
  3) Medium Low           - CPU 3.5ghz (stock), GPU 2100mhz, 80C Balanced Overclock
  4) Low                  - CPU 3.5ghz (stock), GPU 2000mhz, 80C Quiet GPU Overclock
+ 5) Very Low (Stock)     - CPU 3.5ghz (stock), GPU 1500mhz, 80C Quiet GPU Overclock
 
 Enter the number of the performance profile to apply (or 0 to exit):
