@@ -7,7 +7,7 @@ Requirements:
 CPU overclock already installed: https://github.com/bc250-collective/bc250_smu_oc/
 GPU overclock already installed: https://github.com/NexGen-3D-Printing/SteamMachine
 
-Installaion:
+Installation:
 Download repoistory as zip, extract and copy folder to home directory, set all script files executable.
 
 To Run:
