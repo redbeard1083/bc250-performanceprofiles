@@ -27,8 +27,8 @@ lower = 0.40
 
 #°C
 [temperature]
-throttling = 80
-throttling_recovery = 75
+throttling = 90
+throttling_recovery = 85
 
 [[safe-points]]
 frequency = 350
