@@ -1,7 +1,9 @@
 # bc250-performanceprofiles
 Easy way to change performance profiles for CPU and GPU overclocking on the BC-250.
 
-Dislaimer:  I am not responsible for any harm caused by these scripts and you use them at your own risk.
+This is a simple script to adjust CPU and GPU overclock settings as quickly as possible. (Full disclosure: I did use chatgpt to produce the menu script.)
+
+Dislaimer:  I am not responsible for any harm caused by these scripts and you use them at your own risk.  The 4ghz settings will require adequate cooling.
 
 Requirements:
 CPU overclock already installed: https://github.com/bc250-collective/bc250_smu_oc/
@@ -9,14 +11,10 @@ CPU overclock already installed: https://github.com/bc250-collective/bc250_smu_o
 GPU overclock already installed: https://github.com/filippor/cyan-skillfish-governor/tree/smu or https://github.com/NexGen-3D-Printing/SteamMachine
 
 Installation:
-Download repoistory as zip, extract and copy folder to home directory, set all script files executable.
+Download repo as zip and extract to home folder.  Ideallly you would want the bc250ocprofiles folder and oc.sh in your home directory.  This way you do not have to change directories to run the main script.  Once files in place, set oc.sh as executable as well as every script in the scripts folder or they will not run correctly.  (This can be done by right clicking the file, going into properties and selecting the box that says "executable as program.")
 
-To Run:
+To Run this, open a terminal and type:
 ./oc.sh
-
-This is a simple script to adjust CPU and GPU overclock settings as quickly as possible.
-
-Full disclosure: I did use chatgpt to produce the menu script.
 
 Running the script from command line will present the following menu:
 
@@ -29,3 +27,7 @@ Performance Options:
  5) Very Low (Stock)     - CPU 3.5ghz (stock), GPU 1500mhz, 80C Quiet GPU Overclock
 
 Enter the number of the performance profile to apply (or 0 to exit):
+
+
+Optional:
+The Decky Terminal plugin allows easy access to this script from game mode.
